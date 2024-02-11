@@ -1,0 +1,47 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c2.png"
+  },
+  {
+    "title": "Bash",
+    "imageSrc": "skills/bash.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js2.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  }
+]
