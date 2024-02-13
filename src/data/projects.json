@@ -1,0 +1,26 @@
+[
+  {
+    "title": "",
+    "imageSrc": "projects/project.png",
+    "description": "Instaclone: Learn modern web dev! GitHub repo for a Vite+React social media app, mimicking Instagram's features. Dive into the latest languages.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/redxdager/InstaClone"
+  },
+  {
+    "title": "",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Junkie(Discord Bot)",
+    "imageSrc": "projects/project.png",
+    "description": "JunkieBot is a multi-utility bot designed for server management. It offers features like channel nuking, mass banning/kicking, avatar display, and message deletion.",
+    "skills": ["Python", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/redxdager/DiscordBot"
+  }
+]
