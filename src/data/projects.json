@@ -1,25 +1,25 @@
 [
   {
-    "title": "",
-    "imageSrc": "projects/project.png",
-    "description": "Instaclone: Learn modern web dev! GitHub repo for a Vite+React social media app, mimicking Instagram's features. Dive into the latest languages.",
-    "skills": ["React", "Express", "Node"],
+    "title": "BrewBud",
+    "imageSrc": "projects/coffe_shop.png",
+    "description": "I led the creation of a user-friendly coffee shop management system, enhancing efficiency and customer service. Utilizing modern technology, I ensured ease of use for both staff and customers, while enabling administrators to conduct data analysis for decision-making.",
+    "skills": ["Python", "Flask", "Jinja","Docker","Pandas"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com/redxdager/InstaClone"
+    "source": "https://www.github.com/redxdager/Coffee_shop_project"
   },
   {
-    "title": "",
+    "title": "BhashaSarthi",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "BhashaSarthi, your language translator companion, breaks down barriers with seamless translation across diverse languages. From text to speech, it facilitates effortless communication, fostering global connectivity and understanding.",
+    "skills": ["Python","Flask","Jinja","Docker"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ReDxDaGer/BhashaSarthi"
   },
   {
     "title": "Junkie(Discord Bot)",
-    "imageSrc": "projects/project.png",
-    "description": "JunkieBot is a multi-utility bot designed for server management. It offers features like channel nuking, mass banning/kicking, avatar display, and message deletion.",
-    "skills": ["Python", "Docker"],
+    "imageSrc": "projects/discord.png",
+    "description": "JunkieBot, a versatile server management bot, empowers administrators with tools for channel nuking, banning/kicking users, avatar display, and message deletion, streamlining server operations and enhancing user experience.",
+    "skills": ["Python", "Docker","Discordpy"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/redxdager/DiscordBot"
   }

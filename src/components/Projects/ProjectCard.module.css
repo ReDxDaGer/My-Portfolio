@@ -6,12 +6,13 @@
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
-  max-width: 345px;
+  padding: 18px 15px;
+  max-width: 410px;
 }
 
 .image {
   margin-bottom: 26px;
+  border-radius: 20px;
 }
 
 .title {

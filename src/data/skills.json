@@ -1,19 +1,15 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
   {
     "title": "C",
     "imageSrc": "skills/C3.png"
+  },
+  {
+    "title":"Rust",
+    "imageSrc":"skills/rust.png"
   },
   {
     "title": "Bash",
@@ -44,7 +40,27 @@
     "imageSrc":"skills/ts.png"
   },
   {
-    "title":"Linux(Arch btw)",
-    "imageSrc":"skills/arch.png"
+    "title":"Linux",
+    "imageSrc":"skills/linux.png"
+  },
+  {
+    "title":"Neovim",
+    "imageSrc":"skills/nvim.png"
+  },
+  {
+    "title":"Docker",
+    "imageSrc":"skills/docker.png"
+  },
+  {
+    "title":"Express.js",
+    "imageSrc":"skills/express.png"
+  },
+  {
+    "title":"Flask",
+    "imageSrc":"skills/flask.png"
+  },
+  {
+    "title":"Nextjs",
+    "imageSrc":"skills/next.png"
   }
 ]
